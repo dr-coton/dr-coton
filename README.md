@@ -2,7 +2,7 @@
 <img src="./logo.png" width=100/>
 
 
-### Hello, 🌱
+### Coton コトン
 
 <!--
 **dr-coton/dr-coton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
