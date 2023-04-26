@@ -12,12 +12,6 @@
 - VP of Engineering, Extrabold @extra-bold
 - SDK Developer, IMQA @imqa
 
----
-
-### Contact
-
-- Email: hello@dr-coton.com
-
 <!--
 **dr-coton/dr-coton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
