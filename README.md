@@ -2,14 +2,10 @@
 
 <img src="./logo.png" width=100/>
 
-
-
-### 🌱 Coton  コトン
-
-> Slow and steady wins the race.
-
-- CEO, Toastic Inc. @toastic-io
-- VP of Engineering, Extrabold @extra-bold
+- CEO, CodeBlack Inc.
+- CTO, Yomolabs Inc. (yomo.co.kr)
+- CTO, KDCTech Inc. (batoner.kr)
+- CTO, Extrabold Co.
 - SDK Developer, IMQA @imqa
 
 <!--
